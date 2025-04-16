@@ -1,6 +1,6 @@
 # Use-an-Apache-Spark-notebook-in-a-pipeline
 In this exercise, we're going to create an Azure Synapse Analytics pipeline that includes an activity to run an Apache Spark notebook..
-# Lab11 - Use an Apache Spark Notebook in a Pipeline
+
 
 In this lab, you will create a pipeline in **Azure Synapse Analytics** that includes an activity to run an **Apache Spark notebook**. This allows you to automate and schedule data processing tasks using Synapse Pipelines.
 
