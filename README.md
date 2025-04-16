@@ -60,7 +60,6 @@ In this lab, you will create a pipeline in **Azure Synapse Analytics** that incl
 
 ---
 
-
 ## Screenshots
 
 ![Lab11](https://github.com/user-attachments/assets/721c4c32-589b-42b7-8b0b-4e06af722a3d)
